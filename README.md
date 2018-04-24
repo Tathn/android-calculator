@@ -1,0 +1,2 @@
+# Calculator App
+Calculator app made to learn some basics of developing for Android devices. Activity lifecycle, fragments etc. This kind of stuff. Also I really wanted to try to parse some math expressions so I implemented Dijkstra's [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) and tried to make my parser work. It's not perfect... It has some problems with exponential notation. But even if it's not too usable I think it's good enough for a first try.
