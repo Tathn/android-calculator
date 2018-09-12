@@ -18,8 +18,8 @@ import java.util.Arrays;
 
 public class Calculator extends Activity implements StandardKeyboardFragment.OnButtonClickListener, ScientificKeyboardFragment.OnButtonClickListener {
 
-    private final int minTabletModeWidth = 800;
-    private final int minTabletModeHeight = 1024;
+    private final int minTabletModeWidth = 1024;
+    private final int minTabletModeHeight = 1980;
     private TextView input;
     private TextView formula;
     private TextView result;
